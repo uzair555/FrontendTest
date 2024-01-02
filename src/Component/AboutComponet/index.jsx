@@ -10,6 +10,30 @@ const AboutComponent = () => {
     return (
         <div class="shadow-fb rounded w-full bg-white p-4">
           <div class="text-xl font-bold text-fBlack">About</div>
+          <div class="text-fGrey mt-4">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, </div>
+          <div class="flex items-center justify-between p-4">
+  <div class="items-center ">
+    <p class="text-fGrey">Posts</p>
+    <p class="pt-2">12.3k</p>
+
+  </div>
+  <div class="h-10 border-l border-gray-400"></div>
+
+
+  <div class=" items-center ">
+    <p class="text-fGrey">Following</p>
+    <p class="pt-2">123k</p>
+
+  </div>
+  <div class="h-10 border-l border-gray-400"></div>
+
+  <div class=" items-center ">
+    <p class="text-fGrey">Followers</p>
+    <p class="pt-2">123k</p>
+
+  </div>
+
+</div>
           <div class="mt-4 flex items-center">
             <img
             src={location}

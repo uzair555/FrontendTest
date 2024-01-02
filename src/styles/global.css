@@ -2,14 +2,7 @@
 @tailwind components;
 @tailwind utilities; */
 
-/* // In your CSS or SCSS file */
+/* // In your CSS or SCSS files */
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
-
-
-.App {
-  text-align: center;
-}
-
-

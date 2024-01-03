@@ -4,9 +4,7 @@ import AvatarImage from '../../assets/images/avatar.png';
 const ProfileAvatar = () => {
   return (
     <div className="flex justify-between w-[994px]"
-    // style={{
-    //     width:"994px"
-    // }}
+    
     >
       <img
         src={AvatarImage}

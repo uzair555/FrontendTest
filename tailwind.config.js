@@ -25,7 +25,8 @@ module.exports = {
         'fGrey': '#606770',
         'fBlack': '#1D1F23',
         'fFill':'#F0F2F5',
-        'fButton':'#E4E6EB'
+        'fButton':'#E4E6EB',
+        'fOrange':'#F85F35'
 
       },
       borderRadius: {

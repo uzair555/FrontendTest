@@ -24,27 +24,7 @@ const AddPost = () => {
           class="h-6 w-8 "
         />
       </div>
-      {/* <div class="border border-fGray border-opacity-10 mt-4" /> */}
-      {/* <div className="flex justify-between">
-        <button className="flex justify-center items-center w-1/3 focus:outline-none mt-4 py-2">
-          <Image />
-          <span className="text-fGrey text-opacity-80 font-medium ml-2">
-            Photo/Video
-          </span>
-        </button>
-        <button className="flex justify-center items-center w-1/3 focus:outline-none mt-4 py-2">
-          <Tag />
-          <span className="text-fGrey text-opacity-80 font-medium ml-2">
-            Tag Friends
-          </span>
-        </button>
-        <button className="flex justify-center items-center w-1/3 focus:outline-none mt-4 py-2">
-          <Feeling />
-          <span className="text-fGrey text-opacity-80 font-medium ml-2">
-            Feelling/Activity
-          </span>
-        </button>
-      </div> */}
+      
     </div>
   </div>
     )
